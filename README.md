@@ -14,7 +14,8 @@ The world's first truly goatscale db.
 
 # TODO
 
-add more goats
+* add more goats
+* geo-distributed goats
 
 # contribution guide
 
